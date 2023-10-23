@@ -1,0 +1,21 @@
+{
+  "name": "yaru-dark-purple",
+  "displayName": "Yaru Dark Purple",
+  "description": "Theme based on Ubuntu Yaru Dark with purple accents",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yaru Dark Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yaru Dark Purple-color-theme.json"
+      }
+    ]
+  }
+}
