@@ -3,6 +3,10 @@
   "displayName": "Yaru Dark Purple Theme",
   "description": "Theme based on Ubuntu Yaru Dark with purple accents",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MinikPLayer/vscode-yaru-dark-purple-theme"
+  },
   "engines": {
     "vscode": "^1.83.0"
   },
